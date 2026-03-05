@@ -35,7 +35,7 @@ console.log(n.toLocaleString())
 // 'Math' library is by default present in the JavaScript
 
 console.log(Math)
-console.log(Math.abs(-4)) // coverts negative num in positive
+console.log(Math.abs(-4)) // coverts negative num in positive : absolute value
 console.log(Math.round(4.3)) // round of
 console.log(Math.round(4.6)) // round of
 
@@ -50,7 +50,7 @@ console.log(Math.random()*10)
 /* since we have multiplied the random value by 10 it means now we will get
 a no between 0 to 10  (the no might be 0 also so to avoid that case we can add 1) */
 
-console.log(Math.floor (Math.random()*10 + 1))  // to remove the decimal part
+console.log(Math.floor (Math.random()*10))  // to remove the decimal part
 
 
 const max = 20
