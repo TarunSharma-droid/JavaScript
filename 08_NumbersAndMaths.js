@@ -50,7 +50,6 @@ console.log(Math.random()*10)
 /* since we have multiplied the random value by 10 it means now we will get
 a no between 0 to 10  (the no might be 0 also so to avoid that case we can add 1) */
 
-console.log(Math.floor (Math.random()*10))  // to remove the decimal part
 
 
 const max = 20
