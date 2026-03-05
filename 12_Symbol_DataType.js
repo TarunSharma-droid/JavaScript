@@ -28,8 +28,7 @@ myObj[k1] = "Tarun" // using the key k1 in the object myObj and assigning its va
 myObj[k2] = "Sharma" // using the key k2 in the object myObj
 
 // Note that if we want to use the symbols as the key in the object then we cannot use them by the simple
-// method . We have to use the bracket method [] only .. otherwise keys will not show the symbol type in terminal
-// that means bu doing myObj.k1 = "Tarun" we will not get the error but here type of k1 will not ne symbol.
+// method . We have to use the bracket method [] only .
 
 console.log(myObj)
 console.log(myObj[k1]) // only have to use the bracket syntax and not the dot syntax to access the key which is symbol type.
@@ -38,6 +37,8 @@ console.log(myObj[k2])
 
 console.log(myObj.k1) // defined as symbol because here k1 is considered as an independent variable
 // which is not defined by us. { gives undefined result }  
+
+console.log(typeof k1) 
 
 
 
