@@ -12,6 +12,7 @@ console.log(`hello my name is ${name} and my age is ${age}`)
 
 const str = new String("Hello")
 console.log(str)
+console.log(typeof str) // but this declaration will give the type of string as object.
 
 console.log(str[0])
 
