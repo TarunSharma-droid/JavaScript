@@ -10,6 +10,8 @@ console.log(Array1[6])
 // Alternate way to declare an array
 const Array2 = new Array(43, 45, 42,48,49)
 
+console.log(typeof Array2)
+
 // <<<<<<<<< Methods of array >>>>>>>>>
 
 // 1} adding the element in the array ( new element will get add up in the last )
